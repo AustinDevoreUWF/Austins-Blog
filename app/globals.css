@@ -3,8 +3,11 @@
 @theme {
   --font-cormorant-garamond: "var(--font-cormorant-garamond)", serif;
   --font-poppins: "var(--font-poppins)", sans-serif;
+  --font-manufacturing-consent: "var(--font-manufacturing-consent)", serif;
 }
-
+.font-manufacturing-consent{
+  font-family: var(--font-manufacturing-consent),serif;
+}
 .article {
   @apply flex flex-col gap-3 font-poppins text-lg tracking-wide mb-20;
 }
