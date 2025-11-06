@@ -58,7 +58,7 @@ The goal here is perfection, when you need everything exact this is what you wan
 						}
 					}
 					if(!placed){//else has to be outside the for, the for loops over already fitting elements.
-						bins.push_back({newBin});
+						bins.push_back({item});
 						remaining.push_back(capacity - item);
 					}
 				}return bins.size();
@@ -83,7 +83,7 @@ The goal here is perfection, when you need everything exact this is what you wan
 				//now actually place
 			}if(bestBin !=-1){//if the bin was updated
 				remaining[bestBin] -=item;
-				bins[bestBin].push_back(item)
+				bins[bestBin].push_back(item);
 			}else{
 				bins.push_back({item});
 				remaining.push_back(capacity - item);
