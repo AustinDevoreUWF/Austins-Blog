@@ -24,25 +24,69 @@ The goal here is speed with efficiency, so your not going to get the *most* opti
 The goal here is perfection, when you need everything exact this is what you want. It scans for the tightest fit and places there. Its also generally O(n^2), though slower then first fit but is accurate above speed.
 
 ------------------------------------------------
-## Code
-## Code for Next Fit: 
+## Code (Online)
+### Code for Next Fit: 
 
 		int nextFitAlg(const vector<int>& items, int cap){
 		int bins=1;
-		int spaceAv = cap;
+		int spaceLeft = cap;
 		
 		for(int item:items){
-		if(items<=spaceAv){
-		spaceAv =spaceAv-items;}else{
-		bins++;
-		spaceAv =cap-item;
+			if(item <= spaceLeft){
+				spaceLeft =spaceLeft-items;
+				}else{
+					bins++;
+					spaceLeft =cap-item;
+				}
+			}return bins;
 		}
-		}return bins;
-		}
-## Code for First Fit:
+### Code for First Fit:
+		int firstFitAlg(const vector<double>& items, double capacity){
+			vector<vector<double>> bins;
+			vector<double> remaining;
 
+			for(int i=0;i<items.size();i++){
+				bool placed = false;
+				double item = items[i];
+				
+				for(int j=0;j<remaining.size();j++){
+					if(remaining[j]>=item){
+						remaining[j] -=item;
+						bins[j].push_back(item);
+						placed=true;
+						break;
+						}
+					}
+					if(!placed){//else has to be outside the for, the for loops over already fitting elements.
+						bins.push_back({item});
+						remaining.push_back(capacity - item);
+					}
+				}return bins.size();
+			}
 
-## Code for Best Fit
+### Code for Best Fit
 
-	int bestFitAlg(){
+	int bestFitAlg(const std::vector<double>& items, double capacity){
+		vector<vector<double>> bins;
+		vector<double> remaining;
+
+		for(double item: items){
+			int bestBin =-1;
+			double tightness = capacity + 1;// just to keep +#'s when checking
+
+			//find which bin has tightest working fit!
+			for(int j=0; j<remaining.size();j++){
+				if(remaining[j]>=item &&(remaining[j] - item) < tightness){//if the remaining[j](value in remaining at a spot is greater then item and )
+					bestBin = j;
+					tightness = remaining[j] - item;	
+				}
+				//now actually place
+			}if(bestBin !=-1){//if the bin was updated
+				remaining[bestBin] -=item;
+				bins[bestBin].push_back(item);
+			}else{
+				bins.push_back({item});
+				remaining.push_back(capacity - item);
+			}
+		}return bins.size();
 	}
