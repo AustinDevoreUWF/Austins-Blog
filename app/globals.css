@@ -12,7 +12,7 @@
   @apply font-cormorant-garamond text-4xl tracking-tight;
 }
 .article > h2{
-  @apply font-cormorant-garamond text-3xl tracking-tight;
+  @apply font-cormorant-garamond text-3xl tracking-tight  font-bold;
 }
 .article > ol{
   @apply list-decimal flex flex-col mx-10 gap-2;
