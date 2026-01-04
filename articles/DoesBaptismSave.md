@@ -268,6 +268,44 @@ A personal favorite as it is unabashedly clear and also clearly teaches the stud
 
 This list is available here ([https://www.catholic.com/tract/the-necessity-of-baptism](https://www.catholic.com/tract/the-necessity-of-baptism)).
 
+# Responding to Questions:
+Here is one question that ive broken up into Q1 and Q2 to more accurately address each.
+
+## **Question 1:** There seems to be two types of Baptism, one before and one after Christs death. The Baptism before seems to be more in line with the regenerative view, while the Baptism after seems to be more linked to Christs death. Here I will address the very real 2 Baptisms i didnt mention enough in the article.
+## *Response 1:*-**Understanding Johns Baptism of Repentence**:
+There are in fact 2 distinctly different baptisms the new testament, the bible calls these, Johns Baptism of repentence and, Christ's Baptism the Holy Ghost and Fire. Johns baptism is specifically meant to prefigure the real baptism to come, meaning Johns baptism was suppose to preform the act and get the person ready to recieve God in the full baptism of Christ, which is the baptism of the holy spirit and fire; As we see here
+>**Matthew 3:5–6, 11:** "Then went out to him Jerusalem, and all Judea, and all the region round about Jordan, and were baptized of him in Jordan, confessing their sins. ... I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I... he shall baptize you with the Holy Ghost, and with fire."
+
+(Something to keep in mind here is John knows that Christ will institute Baptism to obtain the Holy Ghost this was something told to him by God)
+
+Here John has said though he baptizes with water to promote repentence, he does not yet have the fullness of baptism, hence "but he that cometh after me is mighter than I". He then tells us that Christ will baptize us with the Holy Ghost and with fire, now we know what the Holy Ghost is but it might not be clear what is meant by fire, fire here is refering to the cleansing of sin, we can see this in the book that Jesus himself reads to and very clearly the most cited book in the old testament for prophceys of the new, that being Isaiah(6:6-7).
+>"And one of the seraphims flew to me, and in his hand was a live coal, which he had taken with the tongs off the altar. And he touched my mouth, and said: Behold this hath touched thy lips, and thy iniquities shall be taken away, and thy sin shall be cleansed."
+
+We see here that Isaiah was given a coal still on fire and God uses this fire to cleans his sins to that he can enter haven and talk to God. He was unable to approach Heaven without first having his sins taken away. This is what is meant by the Holy Ghost and Fire.
+We see there is infact 2 baptisms, but as St Jerome puts it, "John baptized for the remission of sins, but the remission was in hope and promise, not in actual effect... for the Holy Spirit had not yet been given." And we also see John the cousin of Jesus say, that Christ will come and when we comes he will have the fullness of baptism; so whatever Baptism Christ has it must be more then the symbolic baptism of John, this is explicitly taught in scripture. **Lets not forget, when Paul found out that the followers of Jesus who previously followed John were given only Johns baptism and not Jesus's, this is what happened.**
+
+>"And he said to them: **Have you received the Holy Ghost since ye believed?** But they said to him: We have not so much as heard whether there be a Holy Ghost. (3)And he said: In what then were you baptized? Who said: In John's baptism. (4)Then Paul said: John baptized the people with the baptism of penance, saying: That they should believe in him who was to come after him, that is to say, in Jesus. (5)Having heard these things, they were baptized in the name of the Lord Jesus. (6)And when Paul had imposed his hands on them, **the Holy Ghost came upon them, and they spoke with tongues and prophesied.**"
+
+## *Response 2-The baptism of regeneration comes after the symbolic baptism of John*
+Now we must notice the citations offered in the article. The objection is that the symbolic view is what is in effect after Christs death. Firstly here I will show that this is not the case, then in the next question I will show how this is harmonized perfectly with scripture. But on the case that the symbolic view is in effect after Christs death, notice that the citations used largely come from the apostles, after the time of Christs ressurection. Notice, Acts 2:38-41:,Mark 16:16,1 Peter 3:19-21, Acts 22:10, Acts 19:1-6. These are the citations provided, each of these examples of Baptism be either commanded as saving and gifting the Holy Ghost, or explcitly shown as saving and gifting the Holy Ghost, comes after Christ has saved us on the cross. But how can we say Baptism saves us, if Christ saved us with his death on the cross? See the next question.
+
+## **Question 2:** If Christ died on the cross to save us from our sins, then how can we say Baptism saves? If we say Baptism saves, are we saying it was unnecessary for Christ to offer himself up for us?
+
+## *Repsonse 1- How Baptism and Christs death both save us:*
+This distinction is very clear once we clear up how we are thinking about this. We are not pitting Christs death and ressurection against the baptism he established, but since he did establish both of these things, how do we understand this? If Christ said we have to be baptized(which we saw he did say) and that he is the only way to salvation(which he also said) then how do we harmonize these two claims? In short, Christ's death is the **source** of our salvation, while Baptism is the **means** by which that salvation actually reaches us. A really good analogy of this is this.
+
+Who would you say healed you when you were sick? Was it the doctor you visited, or was it the medication they prescribed?
+
+**In reality, both are true.** We can say the doctor saved us because, without their knowledge and authority, we would never have had access to the cure. But we can also say the "means" by which we were saved was the medication itself.
+
+Consider this: if a doctor prescribes a specific medicine and tells us it is necessary for our recovery, we wouldn't expect to get better by simply saying, "I have faith that the doctor will heal me" while refusing to take the pill. True faith in the doctor is shown by _following the prescription_. Taking the medicine isn't "saving yourself" or "earning" your health; it is simply the way the doctor chose to deliver the healing to you.
+
+In the same way, Christ is our Physician. His death on the Cross created the "medicine" of immortality, but He has prescribed **Baptism** as the way that medicine is administered to our souls. It is true that Christ saves us, but it is also true that the specific way He chose to do it is through the water. Most importantly, the medicine of Baptism only has the power it deos because of the "Doctor" who created it. Without Christs death, baptism would be empty like Johns baptism, but with his death, it has become the instrument of eternal life.
+
+The apostles understood this perfectly - that's why they preached both Christ's death AND the necessity of baptism. They're not competing truths; they're complementary truths about how God saves us.
+
+----
+
 ## Closing
 The Old Testament points it out, the New Testament clearly teaches it, and the entire Christian faith proclaimed it for 1,500 years. Even now, the vast majority of Christians—Catholic, Orthodox, Anglican, Lutheran, still hold to the regenerative view. The symbolic view is popular primarily in Evangelical and Baptist circles, which represent a minority within global Christianity. However, these communities loudly pronounce the ease of faith in Christ, this idea is extremely dangerous. We cannot have faith in Christ without obeying his commandments. 
 
