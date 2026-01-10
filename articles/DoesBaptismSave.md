@@ -5,7 +5,6 @@ category: "bible"
 ---
 # Does Baptism Save?
 ![Art](/baptism.jpg)
-# Does Baptism Save?
 
 **Sections:**
 

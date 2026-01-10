@@ -10,10 +10,10 @@ interface props{
 export default function ArticleItemList({category, articles}: props) {
         return (
             <div className="flex flex-col gap-5">
-                <h2 className="font-cormorantGaramond text-4xl">{category}</h2>
-                <div className="flex flex-col gap-2.5 font-poppins text-lg">
+                <h2 className="font-cinzel text-4xl">{category}</h2>
+                <div className="flex flex-col gap-2.5 font-poppins text-m">
                     {articles.map((article, id) => (
-                        <Link href={`/${article.id}`} key={id} className="text-neutral-900 hover:text-amber-700 transition duration-150">
+                        <Link href={`/${article.id}`} key={id} className="text-neutral-900 hover:text-amber-700 transition duration-150 dark:text-[#e8e6e3]">
                             {article.title}
                         </Link>
                     ))}
